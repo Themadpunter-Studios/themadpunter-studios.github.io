@@ -23,3 +23,10 @@ body {
     background: linear-gradient(0deg, rgba(251,255,0,1) 0%, rgba(30,194,2,1) 100%);
     background-attachment: fixed;
 }
+.main {
+    background: #00000066;
+    padding-left: 5%;
+    padding-right: 5%;
+    padding-top: 2%;
+    padding-bottom: 2%;
+}
