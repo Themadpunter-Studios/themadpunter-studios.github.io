@@ -14,6 +14,7 @@ header {
 .btn {
     margin-right: 2px;
     margin-left: 2px;
+    margin-bottom: 10px;
 }
 body {
     background: rgb(251,255,0);
