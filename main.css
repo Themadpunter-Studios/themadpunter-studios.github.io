@@ -21,4 +21,5 @@ header {
 body {
     background: rgb(251,255,0);
     background: linear-gradient(0deg, rgba(251,255,0,1) 0%, rgba(30,194,2,1) 100%);
+    background-attachment: fixed;
 }
