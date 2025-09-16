@@ -43,7 +43,6 @@ body {
 .main embed,
 .main object {
     max-width: 100%;
-    height: auto;
     display: block; /* Avoids weird inline spacing issues */
     box-sizing: border-box;
 }
