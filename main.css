@@ -32,7 +32,9 @@ body {
     padding-top: 2%;
     padding-bottom: 2%;
     overflow: hidden; /* Prevents content from spilling out */
-    box-shadow: 0 10px 10px rgba(0, 0, 0, 0.1); /* Optional: Adds a subtle shadow for depth */
+    box-shadow: 
+        0 10px 10px rgba(0, 0, 0, 0.1), /* bottom shadow */
+        0 -10px 10px rgba(0, 0, 0, 0.1); /* top shadow */
     word-wrap: break-word; /* Old spec, still widely supported */
     overflow-wrap: anywhere; /* Modern spec, handles very long words/links */
 }
