@@ -1,9 +1,8 @@
 ---
-layout: default
+layout: post
 title: minor website update
 date: 2026-07-15
 ---
-# minor website update
 I decided to update my personal website today, and now there's a bunch of new pages and my page looks pretty cool
 (because most of the pages talk in all lowercase letters). Anyways, some of the major changes include that I rewrote
 the text of most of the pages, simplified it, added some more custom stuff, and added all of my projects (including
