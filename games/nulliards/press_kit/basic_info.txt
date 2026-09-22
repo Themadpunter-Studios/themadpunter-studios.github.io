@@ -1,0 +1,27 @@
+Game Name: NULLIARDS
+Developer: Themadpunter (Noah)
+Genre: Physics based roguelike survival horror
+Platforms: Windows, Mac, Linux, Web
+Release Status: Prototype
+Price: $7.99 (Full), Free (Arcade)
+Store Links: https://themadpunter.itch.io/nulliards (itch.io)
+Contact: themadpunter@proton.me
+
+NULLIARDS is a fast-paced physics roguelike where you blast billiard balls off a constantly changing table
+while dodging increasingly dangerous threats.
+
+Knock all the balls off of the map, then choose modifiers to complicate your run in the intermission. 
+Some modifiers will complicate the game, some modifiers will spawn entities, and all are extremely challenging.
+After you choose your modifier, it's back to the fun of billiards, dodging, and ultimately, survival.
+
+Notable Features:
+* Billiards-style physics - Launch a ball around a table and knock the other balls off
+* Roguelike modifiers - Choose enemies, rule changes, game variations, and more after each round
+* Dangerous enemies - Run from various monsters, dodge their attacks, and survive the round
+* Fast-paced arcade gameplay - Built for speed, fast decision making, and precision
+* Original soundtrack - Multiple original drum and bass tracks built for the game
+
+About the Developer
+Themadpunter, or Noah, is a teenage indie game developer based out of Wisconsin. He's been making
+games of varying quality since he was 8, and his goal as a developer is to make cool games that you
+can play over and over and never get tired of.
